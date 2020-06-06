@@ -43,5 +43,5 @@ python detect_video.py --video path_to_file.mp4 --output ./detections/output.avi
 * [Another Yolov3 TensorFlow 2](https://github.com/heartkilla/yolo-v3)
 * [Yolo v3 official paper](https://arxiv.org/abs/1804.02767)
 * [A Tensorflow Slim implementation](https://github.com/mystic123/tensorflow-yolo-v3)
-* [TheAIGuyCode](https://github.com/theAIGuysCode)
+* [TheAIGuysCode](https://github.com/theAIGuysCode)
 
