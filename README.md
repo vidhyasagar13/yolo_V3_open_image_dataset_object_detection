@@ -33,7 +33,7 @@ python detect_video.py --video path_to_file.mp4 --output ./detections/output.avi
 ```
 
 ### Output example
-![demo](finaloutput.mp4)
+![](finaloutput.mp4)
 
 
 
