@@ -4,6 +4,15 @@ Object Detection Track Object detection is a central task in computer vision, wi
 # Yolov3 Object Detection with Flask and Tensorflow 2.0 (APIs and Detections)
 Yolov3 is an algorithm that uses deep convolutional neural networks to perform object detection. This repository implements Yolov3 using TensorFlow 2.0 and creates two easy-to-use APIs that you can integrate into web or mobile applications. <br>
 
+### Saving your yolov3 weights as a TensorFlow model.
+Load the weights using `load_weights.py` script. This will convert the yolov3 weights into TensorFlow .ckpt model files!
+
+```
+# yolov3
+python load_weights.py
+
+```
+
 ### Usage examples
 Let's run an example or two using sample images found within the data/images folder. 
 ```bash
